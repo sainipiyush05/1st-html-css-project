@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(38, 35, 54);
+}
+
+.container{
+    position: absolute;
+    z-index: 10;
+    background-color: white;
+    top: 20%;
+    left: 20%;
+    transform: translate(-50% -50%);
+    padding: 30px 450px 70px 50px;
+    border-radius: 20px;
+}
+
+.bold{
+    font: bold;
+    font-size: 50px;
+}
+
+.change{
+    padding-bottom: 2px;
+}
+
+.email{
+    padding-bottom: 20px;
+}
+
+.space{
+    padding-bottom: 10px;
+}
+.container button{
+    color: white;
+    font-size: 15px;
+    padding: 10px 70px 10px 70px;
+    border-radius: 10px;
+    background-color: rgb(38, 35, 54);
+    
+}
+
+.email input{
+    padding: 10px 200px 10px 10px;
+    border-radius: 6px;
+}
+
+
+img{
+    position: absolute;
+    z-index: 10;
+    top: 20%;
+    left: 48%;
+    padding: 30px 450px 70px 50px;
+    background-size: cover;
+    width: 25%;
+    height: 60%;
+}
+
+
+.image1 img{
+    top: 30%;
+    left: 53%;
+    width: 20%;
+    height: 30%;
+}
+
+.image2 img{
+    top: 27%;
+    left: 60%;
+    width: 10%;
+    height: 18%;
+}
+
+.image3 img{
+    top: 50%;
+    left: 65%;
+    width: 8%;
+    height: 15%;
+}
